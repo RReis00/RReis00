@@ -83,8 +83,8 @@ Based in **Leiria, Portugal** — I turn clean code + great UX into products peo
 ---
 
 ## 📬 Let’s Connect
-- 🌐 **Portfolio:** (https://rodrigoportfolio.pt/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-r--836852268/)
-- 📧 **rodrigo_reis122@gmail.com**
+- 🌐 [Portfolio](https://rodrigoportfolio.pt/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rodrigo-r-836852268/)
+- 📧 **rodrigosousareis@hotmail.com**
 
 > *“Code is more than syntax – it’s how ideas become reality.”*
