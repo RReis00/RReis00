@@ -48,7 +48,7 @@ Based in **Leiria, Portugal** — I turn clean code + great UX into products peo
 ## 🕹️ Featured Projects
 
 - 💳 **[VelkraBank](https://github.com/RReis00/velkrabank)**  
-  Modern **banking app prototype** built with **React + Vite + Tailwind**. Focus on clean UI and scalable structure. *(WIP)*
+  Modern **banking app prototype** built with **React + Vite + Tailwind**. Focus on clean UI and scalable structure.
 
 - 🎮 **[GameVault](https://github.com/RReis00/gamevault)**  
   Game catalog with search, filters, favorites, **infinite scroll**, and detailed pages  
@@ -60,7 +60,7 @@ Based in **Leiria, Portugal** — I turn clean code + great UX into products peo
 
 - 💼 **[Portfolio](https://github.com/RReis00/portfolio)**  
   Clean portfolio showcasing selected work and UI finesse  
-  *React, Vite, Bootstrap/Tailwind experiments*
+  *React, Vite, Tailwind*
 
 ---
 
