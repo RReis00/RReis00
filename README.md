@@ -47,14 +47,11 @@ Based in **Leiria, Portugal** — I turn clean code + great UX into products peo
 
 ## 🕹️ Featured Projects
 
-- 💳 **[VelkraBank](https://github.com/RReis00/velkrabank)**  
-  Modern **banking app prototype** built with **React + Vite + Tailwind**. Focus on clean UI and scalable structure.
-
 - 🎮 **[GameVault](https://github.com/RReis00/gamevault)**  
   Game catalog with search, filters, favorites, **infinite scroll**, and detailed pages  
   *React, Redux Toolkit, React Router, Vite, Bootstrap, RAWG API*
 
-- 🎵 **[Jammming](https://jammerge.netlify.app/)**  
+- 🎵 **[Jammming](https://github.com/RReis00/jammming)**  
   Spotify-powered app to search, create, and export custom playlists  
   *React, PKCE OAuth, Spotify Web API, Netlify*
 
