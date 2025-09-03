@@ -48,11 +48,9 @@ Based in **Leiria, Portugal** — I turn clean code + great UX into products peo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" alt="tailwindcss"/>
   <img src="https://cdn.simpleicons.org/reactrouter/CA4245" height="32" alt="react-router"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="32" alt="eslint"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" height="32" alt="prettier"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="32" alt="redux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="github"/>
-  <img src="https://worldvectorlogo.com/downloaded/workbox-1.svg" height="32" alt="workbox"/>
 </p>
 
 ---
