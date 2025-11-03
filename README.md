@@ -57,6 +57,11 @@ Based in **Leiria, Portugal** — I turn clean code + great UX into products peo
 
 ## 🕹️ Featured Projects
 
+- 🪐 **[Orbit](https://github.com/RReis00/orbit)** *(in development)*  
+  Real-time **event & location sharing app** where users can create events, invite others, and see everyone’s live position on a map.  
+  Includes **radius alerts**, **periodic location updates**, and modern map interactivity.  
+  **Project stack:** React + TypeScript, **Vite**, **React Router**, **Tailwind v4**, **Leaflet**, Geolocation API, Custom Hooks.
+
 - 🛡️ **[BSK Ops](https://github.com/RReis00/bsk-ops)** *(in development)*  
   **Operations dashboard** optimized for mobile/desktop with **PWA** (offline + A2HS) and smart caching.  
   **Project stack:** React 19, **TypeScript**, React Router 7, **Vite 7**, **Tailwind v4**, **Dexie (IndexedDB)**, **Workbox**, ESLint, Prettier, Husky/Commitlint.
