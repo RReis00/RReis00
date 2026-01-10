@@ -88,13 +88,16 @@ React · Vite · Tailwind
 
 ## 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RReis00&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=RReis00&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"
     height="165"
   />
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RReis00&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RReis00&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"
     height="165"
   />
 </p>
