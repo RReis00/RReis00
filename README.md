@@ -3,8 +3,6 @@
 Frontend Developer focused on building **modern, performant, and user-centric web applications**.  
 Based in **Leiria, Portugal**.
 
-I care deeply about **clean architecture**, **UX details**, and turning ideas into polished digital products.
-
 ---
 
 ## 🧰 Tech Stack
