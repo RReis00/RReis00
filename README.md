@@ -8,24 +8,24 @@ Based in **Leiria, Portugal**.
 ## 🧰 Tech Stack
 
 **Core**
-- JavaScript (ESNext) · TypeScript  
-- React 19 · React Router 7  
+- JavaScript · TypeScript  
+- React · React Router 
 - Context API · Redux Toolkit  
 
 **Styling & Tooling**
-- Tailwind CSS v4 · Bootstrap  
+- Tailwind · Bootstrap  
 - Vite  
 - ESLint · Prettier · Husky · Commitlint  
 
 **Web & Platform**
-- REST APIs · OAuth2 (PKCE)  
-- PWA · IndexedDB (Dexie) · Workbox  
+- REST APIs · OAuth2 PKCE 
+- PWA · IndexedDB · Workbox  
 - Supabase (Auth, Database, Storage)  
 - ASP.NET · C# 
 
 **Testing & DevOps**
 - Jest · Cypress  
-- Git · GitHub Actions · Netlify  
+- Git · GitHub · Netlify  
 
 
 ---
@@ -41,7 +41,7 @@ Create events, invite participants, and see everyone’s **live position on a ma
 - Interactive maps  
 
 **Stack:**  
-React + TypeScript · Vite · React Router · Tailwind v4 · Leaflet · Geolocation API · Custom Hooks  
+React + TypeScript · Vite · React Router · Tailwind · Leaflet · Geolocation API · Custom Hooks  
 
 🔗 https://github.com/RReis00/orbit
 
