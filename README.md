@@ -27,7 +27,6 @@ Based in **Leiria, Portugal**.
 - Jest · Cypress  
 - Git · GitHub · Netlify  
 
-
 ---
 
 ## 🕹️ Featured Projects
@@ -47,6 +46,22 @@ React + TypeScript · Vite · React Router · Tailwind · Leaflet · Geolocation
 
 ---
 
+### 💼 **Senvu**  
+**Budget & quote management platform (SaaS)**
+
+Create and manage **professional budgets/quotes**, with:
+- Authentication & user accounts  
+- Services catalog (units, base prices, VAT)  
+- Budgets with items and totals  
+- PDF export (share-ready documents)  
+
+**Stack:**  
+React + TypeScript · Tailwind · Supabase (Auth + Database) · PDF generation  
+
+🔗 https://senvu.pt/
+
+---
+
 ### 🎮 **GameVault**  
 **Game catalog platform**
 
@@ -62,18 +77,6 @@ React · Redux Toolkit · React Router · Vite · Bootstrap · RAWG API
 
 ---
 
-### 🎵 **Jammming**  
-**Spotify playlist builder**
-
-Search tracks, create playlists, and export them directly to Spotify using secure authentication.
-
-**Stack:**  
-React · Spotify Web API · OAuth2 PKCE · Netlify  
-
-🔗 https://github.com/RReis00/jammming
-
----
-
 ### 💼 **Portfolio**
 Minimal and elegant portfolio focused on UI and presentation.
 
@@ -85,8 +88,6 @@ React · Vite · Tailwind
 ---
 
 ## 🧠 Currently Learning
-- **ASP.NET**
-- **C#**
 - Backend fundamentals & API design
 - Bridging frontend with robust server-side architectures
 
@@ -94,5 +95,5 @@ React · Vite · Tailwind
 
 ## 📬 Let’s Connect
 - 🌐 Portfolio — https://rodrigoportfolio.pt  
-- 💼 LinkedIn — https://www.linkedin.com/in/rodrigo-r-836852268/  
+- 💼 LinkedIn — https://www.linkedin.com/in/rodrigo-836852268/  
 - 📧 Email — rodrigosousareis@hotmail.com  
