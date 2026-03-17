@@ -8,7 +8,9 @@ Based in **Leiria, Portugal**.
 ## 🧰 Tech Stack
 
 **Core**
-- JavaScript · TypeScript  
+- ASP.NET · C# 
+- JavaScript · TypeScript
+- Node  
 - React · React Router 
 - Context API · Redux Toolkit  
 
@@ -20,8 +22,7 @@ Based in **Leiria, Portugal**.
 **Web & Platform**
 - REST APIs · OAuth2 PKCE 
 - PWA · IndexedDB · Workbox  
-- Supabase (Auth, Database, Storage)  
-- ASP.NET · C# 
+- Supabase (Auth, Database, Storage)
 
 **Testing & DevOps**
 - Jest · Cypress  
