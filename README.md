@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Rodrigo Reis**
 
-Software Engineer focused on building **modern, performant, and user-centric applications**.  
+Software Developer focused on building **modern, performant, and user-centric applications**.  
 Based in **Leiria, Portugal**.
 
 ---
