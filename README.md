@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Rodrigo Reis**
 
 Software Developer focused on building **modern, performant, and user-centric applications**.  
-Based in **Leiria, Portugal**.
+Based in **Portugal**.
 
 ---
 
@@ -10,9 +10,11 @@ Based in **Leiria, Portugal**.
 **Core**
 - ASP.NET · C# 
 - JavaScript · TypeScript
-- Node  
+- Node / Express
+- MySQL / PostgreSQL  
 - React · React Router 
-- Context API · Redux Toolkit  
+- Context API · Redux Toolkit · Zustand
+- Docker / AWS 
 
 **Styling & Tooling**
 - Tailwind · Bootstrap  
@@ -26,7 +28,7 @@ Based in **Leiria, Portugal**.
 
 **Testing & DevOps**
 - Jest · Cypress  
-- Git · GitHub · Netlify  
+- Git · GitHub · Netlify · Vercel
 
 ---
 
